@@ -27,5 +27,5 @@ $welcome_cn='欢迎访问';
 define('Root_Path',dirname(__FILE__));//定义网站运行目录（也称根目录）
 define('Website_Name','Xinger Dev. Project');
 define('Website_Name_cn','Xinger开发项目');
-//define('egpos_seying','牙哥我还是爱你的');
+
 ?>

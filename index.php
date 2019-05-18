@@ -17,7 +17,7 @@ include './config.inc.php';
 </head>
 
 <body>
-	<?=$welcome.Website_Name?><br><?=$welcome_cn.Website_Name_cn?>
+	<?=$welcome.Website_Name?><br><?=$welcome_cn.Website_Name_cn?><br>
 </body>
 
 </html>
