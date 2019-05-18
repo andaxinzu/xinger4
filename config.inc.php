@@ -25,7 +25,7 @@ $welcome_cn='欢迎访问';
 		
 //2.网站配置信息
 define('Root_Path',dirname(__FILE__));//定义网站运行目录（也称根目录）
-define('Website_Name','Xinger Dev. Project');
-define('Website_Name_cn','Xinger开发项目');
+define('Website_Name','Xinger Dev. Project');//网站名称（英文）
+define('Website_Name_cn','Xinger开发项目');//网站名称（中文）
 
 ?>
